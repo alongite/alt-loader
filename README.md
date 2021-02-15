@@ -1,6 +1,10 @@
 # alt-sdk
 前端模块加载系统。可以基于该模块制作“微前端”，或者制作JSSDK用于模块间通讯。
 
+## Examples
+
+https://github.com/alongite/alt-sdk/tree/master/examples
+
 ## 如何使用
 在主应用中
 ```

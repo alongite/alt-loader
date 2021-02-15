@@ -12,6 +12,10 @@
     "lib": "lib",
     "test": "__tests__"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alongite/alt-sdk.git"
+  },
   "scripts": {
     "build": "tsc"
   },
