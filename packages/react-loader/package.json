@@ -1,6 +1,6 @@
 {
   "name": "@alt-sdk/react-loader",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "loader for react",
   "main": "lib/index.js",
   "private": true,
@@ -19,6 +19,6 @@
     "typescript": "^4.1.5"
   },
   "dependencies": {
-    "@alt-sdk/sdk": "^1.0.0"
+    "@alt-sdk/sdk": "^1.0.1"
   }
 }
