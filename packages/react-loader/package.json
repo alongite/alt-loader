@@ -3,6 +3,7 @@
   "version": "0.0.0",
   "description": "loader for react",
   "main": "lib/index.js",
+  "private": true,
   "directories": {
     "lib": "lib"
   },

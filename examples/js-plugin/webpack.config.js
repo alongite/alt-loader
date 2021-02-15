@@ -22,10 +22,13 @@ module.exports = {
     })
   ],
   devServer: {
-    port: 8085,
-    historyApiFallback: true
+    port: 8083
   },
   output: {
     path: path.resolve(__dirname, 'dist'),
+    filename: 'js-plugin.js',
+    library: 'jsPlugin',
+    libraryTarget: 'umd',
+    publicPath: 'http://localhost:8083/'
   },
 };
