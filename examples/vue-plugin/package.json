@@ -1,6 +1,6 @@
 {
   "name": "vue-plugin",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "private": true,
   "scripts": {
     "start": "vue-cli-service serve --port 8082 --open",
@@ -9,7 +9,7 @@
     "lint": "vue-cli-service lint"
   },
   "dependencies": {
-    "@alt-sdk/sdk": "^0.0.0",
+    "@alt-sdk/sdk": "^1.0.0",
     "core-js": "^3.6.5",
     "vue": "^2.6.11",
     "vue-router": "^3.5.1"
