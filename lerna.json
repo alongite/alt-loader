@@ -3,8 +3,5 @@
     "packages/*",
     "examples/*"
   ],
-  "publishConfig": {
-    "access": "public"
-  },
   "version": "1.0.0"
 }
